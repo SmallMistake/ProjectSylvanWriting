@@ -1,6 +1,8 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
-  "calendarium",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "obsidian-plugin-toc",
+  "enhanced-annotations"
 ]

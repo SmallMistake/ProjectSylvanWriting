@@ -13,12 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
+                "file": "Stories/Opening Scene.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Opening Scene"
+            }
+          },
+          {
+            "id": "1cfdc7b65263c576",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-29 00.03.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-29 00.03.49.excalidraw"
+            }
+          },
+          {
+            "id": "798aecb228f787c7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-29 00.03.50.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-29 00.03.50.excalidraw"
             }
           },
           {
@@ -43,11 +67,12 @@
               "state": {
                 "file": "Excalidraw/ED Excalidraw_Example.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "ED Excalidraw_Example"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Excalidraw/Drawing 2025-04-29 00.03.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Drawing 2025-04-29 00.03.50.excalidraw"
             }
           },
           {
@@ -168,49 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Excalidraw/Drawing 2025-04-29 00.03.50.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "8285247213df1b63",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "b3a630d5682ab29f",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "23629d3be42a74e2",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "7a3359fd2e183f3e",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "title": "Outline of Drawing 2025-04-29 00.03.50.excalidraw"
             }
           },
           {
@@ -222,9 +211,29 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "276d98913bc862cd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "c7b285073b3c9aad",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "message-square",
+              "title": "Enhanced Annotations"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -240,32 +249,36 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "calendarium:Open Calendarium": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "952fecd1dc4ce9f8",
+  "active": "798aecb228f787c7",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Welcome.md",
-    "2025-04-24.md",
-    "Characters/Lavli.md",
-    "Excalidraw/ED Excalidraw_Example.md",
+    "Excalidraw/Drawing 2025-04-29 00.03.49.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-29 00.03.50.excalidraw.md",
+    "Stories/Opening Scene.md",
+    "Stories/ED Opening Ambush.md",
     "Stories/Ritual of Reconnection.md",
+    "Characters/Camus.md",
+    "Characters/Lavli.md",
+    "Characters/Nemo.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "2025-04-24.md",
+    "Excalidraw/ED Excalidraw_Example.md",
     "Groups/Church of the Roots.md",
     "Locations/Temple.md",
-    "Stories/ED Opening Ambush.md",
     "General/Story Ramble Area.md",
     "Untitled 1.canvas",
     "Excalidraw/decision-flow-control.excalidrawlib",
     "Characters/Sila.md",
     "Excalidraw/basic-ux-wireframing-elements.excalidrawlib",
     "Excalidraw",
-    "Characters/Nemo.md",
     "General",
     "Templates/Story Template.md",
     "Templates/Location Template.md",
     "Templates/Character Template.md",
-    "Characters/Camus.md",
     "Groups",
     "Locations/_Locations Roster.md",
     "create a link.md",
