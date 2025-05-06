@@ -11,14 +11,10 @@
             "id": "952fecd1dc4ce9f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Camus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Camus"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -27,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Script Template.md",
+                "file": "Templates/Schedule Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Script Template"
+              "title": "Schedule Template"
             }
           },
           {
@@ -48,21 +44,8 @@
               "icon": "lucide-file",
               "title": "Lavli"
             }
-          },
-          {
-            "id": "17207620ce4b0e63",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "General/Excalidraw/ED Excalidraw_Example.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ED Excalidraw_Example"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,12 +113,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ddfba571d0638e7",
+            "id": "49107db87a6a66fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "179183b771260769",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Camus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,69 +141,43 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Camus"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "0572d9ae7adfec3a",
+            "id": "2d2c29420a48a99a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Camus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Camus"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "a7d3c2b40c22f9d2",
+            "id": "35f640bf6a58284c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "49107db87a6a66fd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Characters/Camus.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Camus"
-            }
-          },
-          {
-            "id": "dff4804a3472cfc7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,26 +186,30 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8f8f2aa45efa6d8d",
+  "active": "952fecd1dc4ce9f8",
   "lastOpenFiles": [
+    "Schedules/Temple Schedules.md",
+    "Templates/Schedule Template.md",
+    "Templates/Script Template.md",
+    "Characters/Camus.md",
+    "Characters/Lavli.md",
+    "Characters/Nemo.md",
+    "Schedules",
+    "Templates/Character Template.md",
     "Templates/Story Template.md",
+    "Stories/ED Opening Ambush.md",
+    "Stories/Opening Scene.md",
+    "Stories/Ritual of Reconnection.md",
+    "Characters/Sila.md",
+    "Characters/V.md",
+    "README.md",
     "General/Excalidraw/ED Excalidraw_Example.md",
     "General/Story Ramble Area.md",
     "General/Excalidraw/Drawing 2025-04-29 00.03.49.excalidraw.md",
     "General/Excalidraw/Drawing 2025-04-29 00.03.50.excalidraw.md",
-    "Stories/Opening Scene.md",
-    "Stories/ED Opening Ambush.md",
-    "Stories/Ritual of Reconnection.md",
-    "Templates/Script Template.md",
-    "Templates/Character Template.md",
-    "Characters/V.md",
-    "Characters/Sila.md",
-    "Characters/Nemo.md",
     "Templates/Location Template.md",
     "Locations/Temple.md",
     "Locations/Bayou.md",
@@ -243,11 +217,7 @@
     "Groups/Free Company.md",
     "Groups/Church of the Roots.md",
     "Groups/Banners of the Enemy.md",
-    "Characters/Camus.md",
-    "Characters/Lavli.md",
     "conflict-files-obsidian-git.md",
-    "Welcome.md",
-    "2025-04-24.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "General/Excalidraw/decision-flow-control.excalidrawlib",
@@ -255,7 +225,6 @@
     "General/Excalidraw",
     "General",
     "Groups",
-    "Locations/_Locations Roster.md",
     "Templates",
     "Stories",
     "Locations",
