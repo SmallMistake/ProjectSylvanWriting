@@ -37,12 +37,14 @@
             "id": "798aecb228f787c7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-29 00.03.50.excalidraw.md"
+                "file": "Characters/Camus.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-29 00.03.50.excalidraw"
+              "icon": "lucide-file",
+              "title": "Camus"
             }
           },
           {
@@ -140,69 +142,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ddfba571d0638e7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-29 00.03.50.excalidraw.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-04-29 00.03.50.excalidraw"
-            }
-          },
-          {
-            "id": "0572d9ae7adfec3a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Welcome.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
-            }
-          },
-          {
-            "id": "a7d3c2b40c22f9d2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "49107db87a6a66fd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-29 00.03.50.excalidraw.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-04-29 00.03.50.excalidraw"
-            }
-          },
-          {
             "id": "dff4804a3472cfc7",
             "type": "leaf",
             "state": {
@@ -221,19 +160,9 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "c7b285073b3c9aad",
-            "type": "leaf",
-            "state": {
-              "type": "annotations-outline",
-              "state": {},
-              "icon": "message-square",
-              "title": "Enhanced Annotations"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,21 +177,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "calendarium:Open Calendarium": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "798aecb228f787c7",
+  "active": "276d98913bc862cd",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-04-29 00.03.49.excalidraw.md",
+    "Stories/Untitled.md",
+    "Characters/Camus.md",
+    "Characters/Nemo.md",
     "Excalidraw/Drawing 2025-04-29 00.03.50.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-29 00.03.49.excalidraw.md",
     "Stories/Opening Scene.md",
     "Stories/ED Opening Ambush.md",
     "Stories/Ritual of Reconnection.md",
-    "Characters/Camus.md",
     "Characters/Lavli.md",
-    "Characters/Nemo.md",
     "Welcome.md",
     "Untitled.canvas",
     "2025-04-24.md",

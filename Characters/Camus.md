@@ -25,3 +25,12 @@ Atticus kind of vest feel
 
 **Art Folder**
 GDrive Link
+
+
+## Standard Days Work
+- Wakes up early, goes to sleep late
+- Walks around entire temple to see how things are checking out.
+
+| Time | Actions | Description |
+| ---- | ------- | ----------- |
+|      |         |             |
