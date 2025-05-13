@@ -9,7 +9,7 @@ Long before the tall trees grew tall, there existed a legend. A legend of a swor
 
 %% Comments %%
 ## Ambush
-[[V]]
+[[ED Opening Ambush]]
 
 
 ## Separation
