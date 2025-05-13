@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFile",
       "LiGroup",
       "LiBookTemplate",
       "LiPencilLine",
-      "LiMapPin",
-      "🫂"
+      "LiMapPin"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "Locations": "LiMapPin",
   "Stories": "LiPencilLine",
   "Templates": "LiBookTemplate",
-  "Groups": "LiGroup"
+  "Groups": "LiGroup",
+  "General": "LiFile"
 }
