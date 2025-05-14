@@ -21,7 +21,7 @@
   "outline": {
     "fontSize": 12,
     "showLabelsFilter": false,
-    "showSearchInput": true,
+    "showSearchInput": false,
     "hiddenLabels": [],
     "hiddenTypes": []
   },
@@ -42,12 +42,7 @@
   },
   "idling": {
     "daysUnused": [
-<<<<<<< HEAD
-      "2025-05-13"
-=======
-      "2025-05-06",
-      "2025-05-08"
->>>>>>> origin/master
+      "2025-05-14"
     ]
   },
   "clipboard": {

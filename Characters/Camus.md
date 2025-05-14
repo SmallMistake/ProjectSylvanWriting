@@ -31,6 +31,18 @@ GDrive Link
 - Wakes up early, goes to sleep late
 - Walks around entire temple to see how things are checking out.
 
-| Time | Actions | Description |
-| ---- | ------- | ----------- |
-|      |         |             |
+| Time    | Actions | Description                                                      |
+| ------- | ------- | ---------------------------------------------------------------- |
+|         |         |                                                                  |
+|         |         |                                                                  |
+|         |         |                                                                  |
+| General | Barks   | - Please look after Lavli.<br>- How is your investigation going? |
+
+## Dialogue Barks 
+
+## Gifts
+
+| Dialouge                                         | Reason         |
+| ------------------------------------------------ | -------------- |
+| Thanks, I'll put this to good use!               | Gift Liked     |
+| I'm sure you will get more use from that than I. | Gift Not Liked |

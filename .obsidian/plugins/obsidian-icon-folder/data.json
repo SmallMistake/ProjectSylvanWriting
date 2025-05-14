@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBadgeAlert",
       "LiFile",
       "LiGroup",
       "LiBookTemplate",
-      "LiPencilLine",
-      "LiMapPin"
+      "LiPencilLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "Stories": "LiPencilLine",
   "Templates": "LiBookTemplate",
   "Groups": "LiGroup",
-  "General": "LiFile"
+  "General": "LiFile",
+  "Quests": "LiBadgeAlert"
 }
