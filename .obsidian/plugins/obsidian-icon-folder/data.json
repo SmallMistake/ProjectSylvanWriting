@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBadgeAlert",
-      "LiFile",
-      "LiGroup",
-      "LiBookTemplate",
-      "LiPencilLine"
+      "LiCalendar",
+      "LiCalendarDays",
+      "LiImage",
+      "LiCog",
+      "🛠"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,8 @@
   "Templates": "LiBookTemplate",
   "Groups": "LiGroup",
   "General": "LiFile",
-  "Quests": "LiBadgeAlert"
+  "Quests": "LiBadgeAlert",
+  "Mechanics": "LiCog",
+  "Resources": "LiImage",
+  "Schedules": "LiCalendar"
 }
